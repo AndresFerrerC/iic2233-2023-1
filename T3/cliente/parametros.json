@@ -1,0 +1,23 @@
+{
+    "host": "localhost",
+    "n_ponderador": 20,
+    "numero_jugadores": 4,
+    "path_background": [".", "Sprites", "background"],
+    "path_dices": [".", "Sprites", "dices"],
+    "path_extra": [".", "Sprites", "extra"],
+    "imagenes_dados": {"1": "dice_1.png", "2": "dice_2.png",
+        "3": "dice_3.png", "4": "dice_4.png",
+        "5": "dice_5.png", "6": "dice_6.png",
+        "logo": "dice_logo.png", "fondo": "dice_background.png"},
+    "imagenes_background": {"inicio": "background_inicio.png",
+        "juego": "background_juego.png"},
+    "imagenes_extra": {"boton": "button.png",
+        "boton_pressed": "button_pressed.png",
+        "vaso": "glass.png",
+        "logo_enunciado": "logo_enunciado.png",
+        "logo": "logo.png", "perfil": "user_profile.png"},
+    "dimensiones_ventanas": [700, 520],
+    "posiciones_ventanas": [300, 350],
+    "titulo_ventana_inicio": "DCCachos - Inicio",
+    "titulo_ventana_juego": "DCCachos - Juego"
+}

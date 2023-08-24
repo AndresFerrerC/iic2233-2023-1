@@ -1,0 +1,14 @@
+CONSUMIBLE;Comida rancia,Otorga -20 energía / -10 fuerza / -10 felicidad.,-20,-10,0,-10
+TESORO;Tortuga Dorada,Añade a tu equipo un excavador de tipo Tareo.,1,tareo
+CONSUMIBLE;Duende mágico,Otorga +10 energía / -1 fuerza / +7 suerte / -2 felicidad.,10,-1,7,-2
+TESORO;Tortuga Dorada,Añade a tu equipo un excavador de tipo Tareo.,1,tareo
+CONSUMIBLE;Chamito,Otorga +20 energía / +10 fuerza / +1 felicidad.,20,10,0,1
+CONSUMIBLE;Empanada,Otorga +30 energía / +5 fuerza / +2 felicidad.,30,5,0,2
+CONSUMIBLE;Fajitas,Otorga +20 energía / +5 fuerza / +5 felicidad.,20,5,0,5
+EXCAVADOR;hibrido,Emolaba,28,92,8,10,2,False,0,0
+EXCAVADOR;docencio,Lily614,60,100,10,1,4,True,3,0
+EXCAVADOR;tareo,jtvaldivia,60,56,10,10,1,False,0,0
+EXCAVADOR;tareo,Benjeh,32,76,7,10,1,False,0,0
+EXCAVADOR;hibrido,Beyoncé,41,100,10,10,10,False,0,0
+ARENA;normal,Arena roja,3,2,3,1,0.07
+TORNEO;50,249.84,7,7

@@ -1,0 +1,8 @@
+CONSUMIBLE;Botella,Otorga +30 energía / +5 fuerza / +2 suerte / +10 felicidad.,30,5,2,10
+TESORO;Cáliz Divino,Cambia el estado de la arena a mojada.,2,mojada
+EXCAVADOR;hibrido,Emolaba,18,71,8,9,10,False,0,0
+EXCAVADOR;tareo,Mtaguero,27,74,5,1,6,False,0,0
+EXCAVADOR;docencio,Mpia_vf,21,75,10,5,10,False,0,0
+EXCAVADOR;hibrido,Beyoncé,41,97,10,10,10,False,0,0
+ARENA;normal,Arena suave,1,1,2,1,0.04
+TORNEO;400,105.35,2,7
